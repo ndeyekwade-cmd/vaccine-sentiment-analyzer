@@ -173,7 +173,7 @@ export default function LandingPage({ onAnalyze }) {
               >
                 Tester le modèle →
               </button>
-              <a href="https://github.com" target="_blank" rel="noreferrer" style={{
+              <a href="https://github.com/ndeyekwade-cmd/vaccine-sentiment-analyzer" target="_blank" rel="noreferrer" style={{
                 padding: '12px 28px',
                 border: '1px solid var(--bordeaux-border)',
                 color: 'var(--text-secondary)', borderRadius: '8px',
